@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Blank Receipt", "04.Methods and Debugging - Lab\01. Blank Receipt.csproj", "{160827FF-E40E-47A5-ABBC-C9FE9AFBA216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sign of Integer Number", "02. Sign of Integer Number\02. Sign of Integer Number.csproj", "{6F7A6F29-08F6-45ED-95BE-6EBE2F444DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Printing Triangle", "03. Printing Triangle\03. Printing Triangle.csproj", "{1F2CA88E-58EE-4FAF-9733-EDAD1610FC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Draw a Filled Square", "04. Draw a Filled Square\04. Draw a Filled Square.csproj", "{B67BFB17-29AC-480A-8566-7DD170D0D8E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{160827FF-E40E-47A5-ABBC-C9FE9AFBA216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160827FF-E40E-47A5-ABBC-C9FE9AFBA216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160827FF-E40E-47A5-ABBC-C9FE9AFBA216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160827FF-E40E-47A5-ABBC-C9FE9AFBA216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7A6F29-08F6-45ED-95BE-6EBE2F444DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7A6F29-08F6-45ED-95BE-6EBE2F444DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7A6F29-08F6-45ED-95BE-6EBE2F444DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7A6F29-08F6-45ED-95BE-6EBE2F444DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2CA88E-58EE-4FAF-9733-EDAD1610FC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2CA88E-58EE-4FAF-9733-EDAD1610FC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2CA88E-58EE-4FAF-9733-EDAD1610FC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2CA88E-58EE-4FAF-9733-EDAD1610FC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B67BFB17-29AC-480A-8566-7DD170D0D8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67BFB17-29AC-480A-8566-7DD170D0D8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67BFB17-29AC-480A-8566-7DD170D0D8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67BFB17-29AC-480A-8566-7DD170D0D8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

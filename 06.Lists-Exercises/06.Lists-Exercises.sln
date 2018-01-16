@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Remove Elements at Odd Positions", "ConsoleApplication1\01. Remove Elements at Odd Positions.csproj", "{CB26F3A9-57D8-4F6B-8AEE-EEDAEF1190A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Track Downloader", "02. Track Downloader\02. Track Downloader.csproj", "{EA200C21-A555-47F4-B88C-DB390D60BC52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Equal Sum After Extraction", "03. Equal Sum After Extraction\03. Equal Sum After Extraction.csproj", "{937AE225-939F-4D52-873B-DCAAEB8B11A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Flip List Sides", "04. Flip List Sides\04. Flip List Sides.csproj", "{BB166973-CFEA-4030-81A8-7899AFB78607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Tear List in Half", "05. Tear List in Half\05. Tear List in Half.csproj", "{528565F6-3F24-4A02-8931-8781096CF801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Stuck Zipper", "06. Stuck Zipper\06. Stuck Zipper.csproj", "{F6886543-5ADF-495D-84D4-AF7689770B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Zipper", "06.Zipper\06.Zipper.csproj", "{799F44FB-A6EA-4E43-9608-034BED3A0AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB26F3A9-57D8-4F6B-8AEE-EEDAEF1190A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB26F3A9-57D8-4F6B-8AEE-EEDAEF1190A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB26F3A9-57D8-4F6B-8AEE-EEDAEF1190A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB26F3A9-57D8-4F6B-8AEE-EEDAEF1190A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA200C21-A555-47F4-B88C-DB390D60BC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA200C21-A555-47F4-B88C-DB390D60BC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA200C21-A555-47F4-B88C-DB390D60BC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA200C21-A555-47F4-B88C-DB390D60BC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937AE225-939F-4D52-873B-DCAAEB8B11A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937AE225-939F-4D52-873B-DCAAEB8B11A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937AE225-939F-4D52-873B-DCAAEB8B11A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937AE225-939F-4D52-873B-DCAAEB8B11A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB166973-CFEA-4030-81A8-7899AFB78607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB166973-CFEA-4030-81A8-7899AFB78607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB166973-CFEA-4030-81A8-7899AFB78607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB166973-CFEA-4030-81A8-7899AFB78607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528565F6-3F24-4A02-8931-8781096CF801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528565F6-3F24-4A02-8931-8781096CF801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528565F6-3F24-4A02-8931-8781096CF801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528565F6-3F24-4A02-8931-8781096CF801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6886543-5ADF-495D-84D4-AF7689770B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6886543-5ADF-495D-84D4-AF7689770B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6886543-5ADF-495D-84D4-AF7689770B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6886543-5ADF-495D-84D4-AF7689770B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799F44FB-A6EA-4E43-9608-034BED3A0AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799F44FB-A6EA-4E43-9608-034BED3A0AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799F44FB-A6EA-4E43-9608-034BED3A0AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799F44FB-A6EA-4E43-9608-034BED3A0AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
